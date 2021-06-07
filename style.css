@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+button {
+    background-color: rgb(0, 101, 216);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 1rem;
+    margin: 0 1.5rem;
+    cursor: pointer;
+}
+video {
+    width: 525px;
+    height: 400px;
+    margin-top: 3rem;
+}
